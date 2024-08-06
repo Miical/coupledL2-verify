@@ -1,0 +1,9 @@
+./vsrc/array_0_ext.v
+./vsrc/array_1_ext.v
+./vsrc/array_2_ext.v
+./vsrc/array_ext.v
+./vsrc/array_mcp2_ext.v
+./vsrc/ClockGate.v
+./vsrc/LogPerfHelper.v
+./vsrc/mem_ext.v
+./vsrc/TestTop.v
